@@ -1,3 +1,4 @@
 # hello-word
-Aleatory Repository
+Aleatory Repository.
 Código para exibir "Olá, Mundo!" na tela usando PHP. 
+
